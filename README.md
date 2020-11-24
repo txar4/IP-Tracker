@@ -3,14 +3,14 @@
 
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/htr-tech/track-ip.git`
-* `cd track-ip`
+* `git clone https://github.com/txar4/IP-Tracker.git`
+* `cd IP-Tracker`
 
-#### > Run : `bash trackip`
+#### > Run : `bash IP-Tracker `
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track-ip.git ; cd track-ip ; bash trackip
+apt update ; apt install git curl -y ; git clone https://github.com/txar4/IP-Tracker.git ; cd IP-Tracker ; bash IP-Tracker
 ```
 
 ### <<< If you copy , Then Give me The Credits >>>
